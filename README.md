@@ -1,1 +1,1 @@
-Another engine, this time even less capable, written in vulkan to learn the ways of the API.
+Test graphics engine made in Vulkan 1.3. It was my first encounter with this API.
